@@ -4,7 +4,7 @@ def introduction
 puts "Hi, my name is #{name}."
 end
 
-name Maria
+introduction Maria
 
 
 
