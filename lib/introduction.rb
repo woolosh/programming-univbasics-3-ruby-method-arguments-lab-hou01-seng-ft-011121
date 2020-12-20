@@ -6,7 +6,7 @@ def introduction
 
 end
 
-introduction Maria
+introduction name
 
 
 
